@@ -1,1 +1,2 @@
 This is my initial file.
+added these words directly from GitHub web.
