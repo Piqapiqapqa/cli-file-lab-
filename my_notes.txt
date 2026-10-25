@@ -1,3 +1,3 @@
-This is my initial file.
-added these words directly from GitHub web.
-This is my orginal local file.
+This is my original file (resolved conflict).
+Added these words directly from GitHub web.
+Adding feature branch updates.
